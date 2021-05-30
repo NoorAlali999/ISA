@@ -7,9 +7,12 @@
 
 ## How to run the code:
 The program should be executed using the following command format:
-- g++ ISS_Group_F.cpp -o exe
-- ./exe <programFile.txt>
+- $ g++ ISS_Group_F.cpp -o exe
+- $ ./exe <programFile.txt>
 
+- Example
+  - $ g++ ISS_Group_F.cpp -o exe
+  - $ ./exe program1.txt
 
 
 
