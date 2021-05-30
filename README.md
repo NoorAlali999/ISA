@@ -1,7 +1,7 @@
 # ISA#Project name: CPE443 Project 2020_Group F_ISS Design
 
 # Auother name:
-Noor Alali 
+### Noor Alali 
 
 - My code is written in C++ language, use g++ compiler and pass the name of one of the assembly programs that I wrote and run the program to get the wanted result.
 
