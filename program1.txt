@@ -1,0 +1,4 @@
+Mul #0
+Add #2
+Les #3
+Eql R1

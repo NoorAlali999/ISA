@@ -1,0 +1,5 @@
+Stt  3
+And R1
+Ldd #5
+Hlt
+Les R1
